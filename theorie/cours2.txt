@@ -1,0 +1,8 @@
+Savoir les branches:
+git branch
+
+Créer  une branche:
+git branch dev
+
+Se mettre sur une branche
+git checkout dev
