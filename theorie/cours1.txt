@@ -1,0 +1,14 @@
+Dépôt  local:
+Il s'agit des fichiers stockés dans votre ordinateur.
+
+Dépôt en ligne:
+Il s'agit des fichiers stockés dans des datacenters.
+
+Git:
+Git est un gestionnaire de versions.
+
+Github: 
+GitHub est un service en ligne qui héberge les dépôts Git
+
+Initialisation d'un fichier 
+git init
