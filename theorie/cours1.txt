@@ -40,3 +40,6 @@ git  remote add https://github.com/user_github/nom_projet
 
 Mettre les modifications en ligne:
 git push
+
+Voir les différents status:
+git status
