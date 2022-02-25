@@ -6,3 +6,21 @@ git branch dev
 
 Se mettre sur une branche
 git checkout dev
+
+se déplacer sur une branche dev et se déplacer dessus.
+git checkout -b dev
+
+Créer ou reset la branche dev et se déplace au dessus
+git checkout -B dev
+
+erreur dans le nom de ma branch:
+git branch dev
+
+correction du nom de la branche
+git branch -m dev developpement
+
+supprime la branche
+git branch -d developpement
+
+force à supprimer la branche
+git branch -d developpement

@@ -46,3 +46,5 @@ git push
 
 Voir les différents status:
 git status
+
+Voir la pratique dans img/cours1
