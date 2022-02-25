@@ -1,8 +1,17 @@
-Savoir les branches:
-git branch
+Voir les différences entre la version git et la vôtre
+git diff
 
-Créer  une branche:
-git branch dev
+Affichage des commits sur le repository
+git log
+les différentes options:
+affiche les commmits de toutes les branches.
+git log--all
 
-Se mettre sur une branche
-git checkout dev
+affiche les titres des commits
+git log --oneline
+
+affiche  un graph avec les branches
+git log --graph
+
+affiche le résumé des changments de chaque commit ave --stat
+git log -all --oneline --stat
