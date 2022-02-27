@@ -1,0 +1,6 @@
+git merge diiférence git rebase:
+git merge fusionne la branche main et une autre branche et supprime les commits.
+git rebase fusionne la branche main et une autre branche et garde un historique des commits.
+git branch dev
+git checkout dev
+git merge branch dev
